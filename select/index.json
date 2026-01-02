@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "空風",
+  "base_artist": "wapiti",
+  "createdAt": "2026-01-02T05:45:23.358993Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空風",
+      "artist": "Lan Fan (CV:Nana Mizuki)",
+      "has_synced": false,
+      "path": "select/01_空風_Lan_Fan_(CV_Nana_Mizuki).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "空風",
+      "artist": "水樹奈々",
+      "has_synced": false,
+      "path": "select/02_空風_水樹奈々.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空風",
+      "artist": "wapiti",
+      "has_synced": false,
+      "path": "select/pl_01_空風_wapiti.txt"
+    }
+  ]
+}
